@@ -1,0 +1,7 @@
+[package]
+name = "timeseries-metric-store"
+version = "0.1.0"
+edition = "2021"
+description = "Embedded in-memory time-series metric storage and rolling downsampler in Rust"
+
+[dependencies]
